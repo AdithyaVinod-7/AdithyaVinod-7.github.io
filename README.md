@@ -1,15 +1,15 @@
 # Data Scientist
 
 ## Technical Skills 
--**Core Expertise:** Data Mining, Machine Learning, Deep Learning, Data Warehousing, Reporting, Statistics, Microsoft Excel
+- **Core Expertise:** Data Mining, Machine Learning, Deep Learning, Data Warehousing, Reporting, Statistics, Microsoft Excel
 
--**Languages:** Python, R, SQL, MATLAB, C, Java
+- **Languages:** Python, R, SQL, MATLAB, C, Java
 
--**Databases:** MySQL, MS SQL, MongoDB
+- **Databases:** MySQL, MS SQL, MongoDB
 
--**Libraries:** Pandas, NumPy, Scikit-Learn, Keras, TensorFlow, PyTorch, Matplotlib, NLTK, Transformers
+- **Libraries:** Pandas, NumPy, Scikit-Learn, Keras, TensorFlow, PyTorch, Matplotlib, NLTK, Transformers
 
--**Big Data Technologies:** Hadoop, Hive, KNIME, Google BigQuery, PowerBI, Tableau, GCP, GitHub, Azure
+- **Big Data Technologies:** Hadoop, Hive, KNIME, Google BigQuery, PowerBI, Tableau, GCP, GitHub, Azure
 
 ## Education							       		
 - M.S., Data Analytics	| The Pennsylvania State University (_Dec 2023_)	 			        		
