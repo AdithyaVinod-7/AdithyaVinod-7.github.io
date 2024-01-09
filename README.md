@@ -13,7 +13,7 @@
 
 ## Education							       		
 - M.S., Data Analytics	| The Pennsylvania State University (_Dec 2023_)	 			        		
-- Integrated MSc, Data Science | PSG College of Technology (_Jun 2021_)
+- M.Sc., Data Science | PSG College of Technology (_Jun 2021_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
